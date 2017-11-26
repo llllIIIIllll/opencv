@@ -24,7 +24,6 @@
 		BD4B9A341FCA43D600374817 /* libopencv_superres.3.3.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BDE4A6721FC85BBA00764087 /* libopencv_superres.3.3.1.dylib */; };
 		BD4B9A401FCA43D700374817 /* libopencv_videoio.3.3.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BD4B9A3A1FCA43D600374817 /* libopencv_videoio.3.3.1.dylib */; };
 		BD4B9A421FCA43D700374817 /* libopencv_videostab.3.3.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BD4B9A3C1FCA43D600374817 /* libopencv_videostab.3.3.1.dylib */; };
-		BD4B9A431FCA444E00374817 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BDE4A6611FC8391300764087 /* main.cpp */; };
 		BDDC76AB1FC9789000B1FFB8 /* Eroding_Dilating.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BDDC76AA1FC9789000B1FFB8 /* Eroding_Dilating.cpp */; };
 		BDE4A68A1FC85BBB00764087 /* libopencv_imgproc.3.3.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BDE4A66C1FC85BB900764087 /* libopencv_imgproc.3.3.1.dylib */; };
 		BDE4A68B1FC85BBB00764087 /* libopencv_features2d.3.3.1.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = BDE4A66D1FC85BB900764087 /* libopencv_features2d.3.3.1.dylib */; };
@@ -315,7 +314,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BD4B9A431FCA444E00374817 /* main.cpp in Sources */,
 				BD4B99E61FC9AAB300374817 /* image_table_time.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
