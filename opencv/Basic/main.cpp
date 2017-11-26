@@ -30,9 +30,9 @@ int main(int argc, const char * argv[]) {
     Mat E = A(Range::all(), Range(1, 3));            // using row and column boundaries
     
     // copy the matrix itself
-    //Mat F = A.clone();
-    //Mat G;
-    //A.copyTo(G);
+    Mat F = A.clone();
+    Mat G;
+    A.copyTo(G);
     
     //! Storing methods
     
