@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>highgui.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>opencv.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -17,6 +22,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>BD04706F1FCBC37400883289</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>BD4B99DC1FC9AA8400374817</key>
 		<dict>
 			<key>primary</key>
