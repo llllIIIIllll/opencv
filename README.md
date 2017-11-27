@@ -1,3 +1,14 @@
+----
+use opencv in qt 
+just add header file and lib into the .pro file
+------------------------------------------------------
+INCLUDEPATH += /usr/local/include/opencv2 \
+               /usr/local/include
+LIBS += /usr/local/lib/opencv2/libopencv
+------------------------------------------------------
+----
+git
+----
 3）打开终端输入命令
 
 cd到你的本地项目根目录下，执行如下git命令
